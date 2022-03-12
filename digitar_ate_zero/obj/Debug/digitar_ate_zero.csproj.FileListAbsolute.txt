@@ -1,0 +1,7 @@
+C:\Users\gusta\source\repos\digitar_ate_zero\digitar_ate_zero\bin\Debug\digitar_ate_zero.exe.config
+C:\Users\gusta\source\repos\digitar_ate_zero\digitar_ate_zero\bin\Debug\digitar_ate_zero.exe
+C:\Users\gusta\source\repos\digitar_ate_zero\digitar_ate_zero\bin\Debug\digitar_ate_zero.pdb
+C:\Users\gusta\source\repos\digitar_ate_zero\digitar_ate_zero\obj\Debug\digitar_ate_zero.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\digitar_ate_zero\digitar_ate_zero\obj\Debug\digitar_ate_zero.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\digitar_ate_zero\digitar_ate_zero\obj\Debug\digitar_ate_zero.exe
+C:\Users\gusta\source\repos\digitar_ate_zero\digitar_ate_zero\obj\Debug\digitar_ate_zero.pdb
